@@ -1,2 +1,2 @@
-esribir un query de empleador por cliente, usando join, donde muestre
-el producto de que territorio o reion es.
+esribir un query de empleador o cliente, usando join, donde muestre
+el producto de que territorio o region es.
